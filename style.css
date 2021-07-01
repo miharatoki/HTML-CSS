@@ -103,23 +103,31 @@ footer {
   }
 
   .contents-image1 {
+    height: 250px;
     width: 100%;
   }
 
   .contents-image2 {
+    height: 250px;
     width: 100%;
   }
 
   .contents-image3 {
+    height: 250px;
     width: 100%;
   }
 
   h3 {
+    height: 70px;
     width: 100%;
+    padding-top: 25px;
+    font-size: 25px;
   }
 
   p {
+    height: 100px;
     width: 100%;
+    font-size: 20px;
   }
 
   footer {
